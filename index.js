@@ -1,4 +1,4 @@
-const URL="https://validacaocpf.herokuapp.com/"
+const URL="https://validacaocpf.herokuapp.com/validacpf?cpf="
 
 function validar(){
 
